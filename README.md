@@ -24,4 +24,4 @@ this is a language expansion pack you can use for gunfire reborn to make its eng
 - notification text
 and anything else i didnt list. but it's still most of what you'll interact with during a run!
 
-i dont really know how git works but other people's contributions are welcomed! you can read how to install it here
+i dont really know how git works but other people's contributions are welcomed! you can read how to install it here https://steamcommunity.com/sharedfiles/filedetails/?id=3753393905
