@@ -15,6 +15,7 @@ this is a language expansion pack you can use for gunfire reborn to make its eng
 - room challenge text
 - red (mysterious) chest text
 - the task giver's tasks
+- enemy scroll text
 - most heroes' skill descriptions
 - hero flavor text
 - weapon flavor text
